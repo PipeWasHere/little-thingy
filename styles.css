@@ -1,0 +1,17 @@
+body{
+    background-color: navy;
+}
+
+.die{
+font-size: 69px;
+color: red;
+}
+
+.prank{
+font-size: 31px;
+color: purple;
+}
+
+span{
+text-transform: uppercase;
+}
